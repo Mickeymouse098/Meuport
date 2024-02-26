@@ -1,3 +1,4 @@
+
 /*ESTILO GERAL*/
 *{
     margin: 0;
@@ -238,3 +239,5 @@ section.sobre .flex{
   .txt-sobre {
     flex: 1 1 auto;
   }
+  
+  
